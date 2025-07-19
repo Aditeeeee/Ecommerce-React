@@ -41,7 +41,7 @@ A **clean, modern e-commerce platform** where users can browse, search, and purc
 
 ```bash
 git clone https://github.com/yourusername/shopeasy.git
-cd shopeasy
+cd Ecommerce-React
 npm install
 npm run dev
 ```
