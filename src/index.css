@@ -1,0 +1,6 @@
+.active {
+  border-bottom: 2px solid white;
+  padding-bottom: 4px;
+  transition: all 0.3s ease;
+}
+
